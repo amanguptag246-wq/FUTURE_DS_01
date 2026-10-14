@@ -1,0 +1,39 @@
+
+BUSINESS SALES PERFORMANCE ANALYTICS
+====================================
+
+1. OVERVIEW
+Total Revenue: Rs. 830,000
+Total Units Sold: 33
+Total Sales Records: 10
+
+2. PRODUCT PERFORMANCE
+Product
+Laptop    400000
+Tablet    220000
+Mobile    210000
+
+Top Revenue-Generating Product: Laptop
+
+3. REGIONAL PERFORMANCE
+Region
+North    290000
+South    215000
+East     195000
+West     130000
+
+Best Performing Region: North
+
+4. BUSINESS INSIGHTS
+- Laptop generates the highest revenue.
+- North has the highest total revenue.
+- Product and regional performance can guide business decisions.
+
+5. RECOMMENDATIONS
+- Study why the top product generates more revenue.
+- Investigate opportunities to improve lower-performing regions.
+- Monitor sales and revenue regularly.
+
+NOTE:
+This report uses a sample dataset for practice.
+Results do not represent a real business.
